@@ -18,7 +18,7 @@
 - Game(Fifa)🧡
 
 ## My Dream ✍
-- Joining Kakao.
+- Joining IT company 👏
 - My dream is to be a backend developer 💻
 - Travel to Japan 🛫
 
