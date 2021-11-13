@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone!! 👋
 
 # 김민재 Minjae Kim (22)
 
