@@ -9,13 +9,13 @@
 <br>
 
 ## Work experience 🤹‍♀️
-- 2019.03.01~2019.12.31 
-- 2021.11.12~Ing 개인 프로젝트(웹사이트) 시작
-
+- 2021.11.12~Ing: Git hub Start!!!!!💻
+- 
 ## Interest 👀
 - Soccer ⚽
 - Reading 📖
-- Game(Fifa)🧡
+- Game(FIFA)🧡
+- learning C,Java,Html/CSS,JSP
 
 ## My Dream ✍
 - Joining IT company 👏
