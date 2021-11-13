@@ -4,6 +4,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/im_minjaeee/)](https://www.instagram.com/im_minjaeee/) 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj6832596)](https://solved.ac/kmj6832596/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjaeeeee)](https://github.com/Minjaeeeee/github-readme-stats)
 
 
