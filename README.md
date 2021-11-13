@@ -13,7 +13,7 @@
 <br>
 
 ## Work experience 🤹‍♀️
-- 2021.11.12~Ing: Git hub Start!!!!!💻
+- 2021.11.12~Ing: Git Hub Start!!!!!💻
 
 ## Interest 👀
 - Soccer ⚽
