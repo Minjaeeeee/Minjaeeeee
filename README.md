@@ -4,9 +4,6 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjaeeeee)](https://github.com/Minjaeeeee/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minjaeeeee&layout=compact)](https://github.com/Minjaeeeee/github-readme-stats)
-
-
 
 <br>
 
