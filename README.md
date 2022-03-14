@@ -14,7 +14,7 @@ Hello every one! My name is Kim MinJae. I am currently studying to become a Beck
 - 2021.12.02: 배달의 민족 개발자(장현석 개발자님) 1대1 인프런 강의 
 
 ## Interest 👀
-- Soccer ⚽
+- Soccer ⚽ 
 - Reading 📖
 - Game(FIFA)🧡
 - learning C,Java,Html/CSS,JSP
