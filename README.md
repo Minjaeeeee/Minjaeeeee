@@ -12,7 +12,7 @@ Hello every one! My name is Kim MinJae. I am currently studying to become a Bcke
 ## Work experience 🤹‍♀️
 - 2021.11.12~Ing: Git Hub Start!!!!!💻
 - 2021.12.02: 배달의 민족 개발자(장현석 개발자님) 1대1 인프런 강의 
-
+ 
 ## Interest 👀
 - Soccer ⚽ 
 - Reading 📖
