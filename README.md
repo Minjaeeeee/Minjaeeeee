@@ -18,7 +18,7 @@ Hello every one! My name is Kim MinJae. I am currently studying to become a Bcke
 - Reading 📖
 - Game(FIFA)🧡
 - learning C,Java,Html/CSS,JSP
-
+ 
 ## My Dream ✍
 - Joining IT company 👏
 - My dream is to be a backend developer 💻
