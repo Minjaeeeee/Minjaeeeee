@@ -27,7 +27,7 @@ Hello every one! My name is Kim MinJae. I am currently studying to become a Bcke
 ## Contact
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/im_minjaeee/)](https://www.instagram.com/im_minjaeee/) 
  
-     
+      
   
  
   
