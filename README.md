@@ -8,7 +8,7 @@ Hello every one! My name is Kim MinJae. I am currently studying to be come a Bac
 <br>
 ## Skills😎
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
- 
+  
 ## Work experience 🤹‍♀️
 - 2021.11.12~Ing: Git Hub Start!!!!!💻 
 - 2021.12.02: 배달의 민족 개발자(장현석 개발자님) 1대1 인프런 강의 
