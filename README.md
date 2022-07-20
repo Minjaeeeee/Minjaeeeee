@@ -17,7 +17,7 @@ Hello every one! My name is Kim MinJae. I am currently studying to be come a Bac
 - Soccer ⚽ 
 - Reading 📖
 - Game(FIFA)🧡
-- learning C,Java,Html/CSS,JSP
+- learning C,Java,Html/CSS,JSP 
  
 ## My Dream ✍
 - Joining IT company 👏
