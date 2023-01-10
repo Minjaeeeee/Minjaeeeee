@@ -1,6 +1,6 @@
 ### Hi Everyone!! 👋
 
-## 김민재 Minjae Kim (23)
+## 김민재 Minjae Kim (24)
 Hello every one! My name is Kim MinJae. I am currently studying to be come a Backend developer in the Department of IT Convergence at Nazareth University!
 <br>
 ## 🔶Stats🔶
