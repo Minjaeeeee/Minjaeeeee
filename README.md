@@ -1,7 +1,7 @@
 ### Hi Everyone!! 👋
 
 ## 김민재 Minjae Kim (24)
-Hello every one! My name is Kim MinJae. I am currently studying to be come a Backend developer in the Department of IT Convergence at Nazareth University!
+Hello every one! My name is Kim MinJae. I am currently studying to be come a Backend developer in the Department of IT Convergence at Nazarene University!
 <br>
 ## 🔶Stats🔶
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjaeeeee)](https://github.com/Minjaeeeee/github-readme-stats)
